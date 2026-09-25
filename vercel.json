@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/_next/static/immutable/:path*", "destination": "/_next/static/imm/:path*" }
+  ]
+}
