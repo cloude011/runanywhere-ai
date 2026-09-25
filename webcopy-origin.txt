@@ -1,0 +1,1420 @@
+Uri: https://www.runanywhere.ai/
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\index.htm
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/about
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\about.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/apple-icon.png?apple-icon.05s2an2b-hkhx.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\apple-icon.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/blog
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog/android-use-agent
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog\android-use-agent.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog/bonsai-27b-1-bit-models-on-phone
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog\bonsai-27b-1-bit-models-on-phone.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog/fastvoice-on-device-voice-ai-pipeline-apple-silicon
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog\fastvoice-on-device-voice-ai-pipeline-apple-silicon.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog/fastvoice-rag-on-device-retrieval-augmented-voice-ai
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog\fastvoice-rag-on-device-retrieval-augmented-voice-ai.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog/llm-hub-ios-case-study
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog\llm-hub-ios-case-study.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog/metalrt-fastest-llm-decode-engine-apple-silicon
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog\metalrt-fastest-llm-decode-engine-apple-silicon.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog/metalrt-s2s-fastest-speech-to-speech-apple-silicon
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog\metalrt-s2s-fastest-speech-to-speech-apple-silicon.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog/metalrt-speech-fastest-stt-tts-apple-silicon
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog\metalrt-speech-fastest-stt-tts-apple-silicon.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog/metalrt-vlm-fastest-vision-language-model-apple-silicon
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog\metalrt-vlm-fastest-vision-language-model-apple-silicon.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog/offline-ai-agent-android
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog\offline-ai-agent-android.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog/on-device-browser-agent
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog\on-device-browser-agent.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog/on-device-llm-android
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog\on-device-llm-android.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog/qhexrt-npu-vs-cpu-lfm2.5-230m-qualcomm-hexagon
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog\qhexrt-npu-vs-cpu-lfm2.5-230m-qualcomm-hexagon.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog/runanywhere-on-device-ai-platform-sdk-y-combinator-2026
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog\runanywhere-on-device-ai-platform-sdk-y-combinator-2026.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog/runanywhere-sdk-powers-on-device-ai-coaching-picklerate
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog\runanywhere-sdk-powers-on-device-ai-coaching-picklerate.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog/runanywhere-sdk-v0-17-5-release
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog\runanywhere-sdk-v0-17-5-release.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog/runanywhere-swift-part1-chat
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog\runanywhere-swift-part1-chat.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog/runanywhere-swift-part2-stt
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog\runanywhere-swift-part2-stt.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog/runanywhere-swift-part3-tts
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog\runanywhere-swift-part3-tts.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog/runanywhere-swift-part4-voice-pipeline
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog\runanywhere-swift-part4-voice-pipeline.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog?line=metalrt
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog-3.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog?line=qhexrt
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog-2.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog?line=sdk
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog-1.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog?line=vision
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog-4.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/blog?line=voice
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\blog-5.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/favicon.ico?favicon.1hqg_7jl98p3w.ico
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.runanywhere.ai/icon.svg?icon.3ncxwwpk254zl.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/images/blog/android-use-agent/demo.mp4
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\android-use-agent\demo.mp4
+Content Type: video/mp4
+
+Uri: https://www.runanywhere.ai/images/blog/android-use-agent/featured.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\android-use-agent\featured.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/images/blog/bonsai-1bit/all-devices.mp4
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\bonsai-1bit\all-devices.mp4
+Content Type: video/mp4
+
+Uri: https://www.runanywhere.ai/images/blog/bonsai-1bit/android-npu.mp4
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\bonsai-1bit\android-npu.mp4
+Content Type: video/mp4
+
+Uri: https://www.runanywhere.ai/images/blog/bonsai-1bit/hero.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\bonsai-1bit\hero.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/images/blog/bonsai-1bit/iphone-27b.mp4
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\bonsai-1bit\iphone-27b.mp4
+Content Type: video/mp4
+
+Uri: https://www.runanywhere.ai/images/blog/fastvoice-rag/hero.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\fastvoice-rag\hero.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/images/blog/fastvoice/hero.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\fastvoice\hero.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/images/blog/llm-hub-case-study/hero-card.jpg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\llm-hub-case-study\hero-card.jpg
+Content Type: image/jpeg
+
+Uri: https://www.runanywhere.ai/images/blog/llm-hub-case-study/hero.mp4
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\llm-hub-case-study\hero.mp4
+Content Type: video/mp4
+
+Uri: https://www.runanywhere.ai/images/blog/llm-hub-case-study/vibecode.mp4
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\llm-hub-case-study\vibecode.mp4
+Content Type: video/mp4
+
+Uri: https://www.runanywhere.ai/images/blog/metalrt-benchmarks/hero.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\metalrt-benchmarks\hero.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/images/blog/metalrt-s2s/hero.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\metalrt-s2s\hero.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/images/blog/metalrt-speech/stt_benchmark.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\metalrt-speech\stt_benchmark.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/images/blog/metalrt-vlm/hero.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\metalrt-vlm\hero.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/images/blog/offline-ai-agent-android/Hero_ Offline AI Agent on Android.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\offline-ai-agent-android\Hero_ Offline AI Agent on Android.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/images/blog/on-device-browser-agent/featured.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\on-device-browser-agent\featured.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/images/blog/on-device-llm-android/RunAnywhere Hero.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\on-device-llm-android\RunAnywhere Hero.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/images/blog/picklerate-case-study/app-icon.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\picklerate-case-study\app-icon.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/images/blog/qhexrt-npu-vs-cpu-lfm2.5-230m/hero.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\qhexrt-npu-vs-cpu-lfm2.5-230m\hero.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/images/blog/runanywhere-swift-tutorial/chat-streaming.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\runanywhere-swift-tutorial\chat-streaming.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/images/blog/runanywhere-swift-tutorial/speech-to-text.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\runanywhere-swift-tutorial\speech-to-text.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/images/blog/runanywhere-swift-tutorial/text-to-speech.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\runanywhere-swift-tutorial\text-to-speech.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/images/blog/runanywhere-swift-tutorial/voice-pipeline.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\blog\runanywhere-swift-tutorial\voice-pipeline.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/images/home/backdrop-wash.jpg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\home\backdrop-wash.jpg
+Content Type: image/jpeg
+
+Uri: https://www.runanywhere.ai/images/home/card-wash.jpg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\home\card-wash.jpg
+Content Type: image/jpeg
+
+Uri: https://www.runanywhere.ai/images/marketing/y-combinator.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\marketing\y-combinator.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/images/news/ceoworld.jpg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\news\ceoworld.jpg
+Content Type: image/jpeg
+
+Uri: https://www.runanywhere.ai/images/news/dnaindia.jpg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\news\dnaindia.jpg
+Content Type: image/jpeg
+
+Uri: https://www.runanywhere.ai/images/news/foundersbrief.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\news\foundersbrief.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/images/news/ibtimes.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\news\ibtimes.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/images/news/lauch.jpg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\news\lauch.jpg
+Content Type: image/jpeg
+
+Uri: https://www.runanywhere.ai/images/news/nexttechtoday.jpg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\news\nexttechtoday.jpg
+Content Type: image/jpeg
+
+Uri: https://www.runanywhere.ai/images/news/sdk.jpg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\news\sdk.jpg
+Content Type: image/jpeg
+
+Uri: https://www.runanywhere.ai/images/news/techbullion.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\news\techbullion.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/images/news/yc-launch.jpg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\images\news\yc-launch.jpg
+Content Type: image/jpeg
+
+Uri: https://www.runanywhere.ai/legal/acceptable-use
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\legal\acceptable-use.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/legal/privacy
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\legal\privacy.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/legal/refunds
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\legal\refunds.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/legal/terms
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\legal\terms.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/neurt
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\neurt.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/news
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\news.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W13
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W13.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W14
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W14.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W15
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W15.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W16
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W16.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W17
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W17.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W18
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W18.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W19
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W19.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W20
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W20.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W21
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W21.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W22
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W22.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W23
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W23.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W24
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W24.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W25
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W25.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W26
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W26.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W27
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W27.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W28
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W28.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W29
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W29.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W30
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W30.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W31
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W31.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W32
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W32.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/2026-W33
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\2026-W33.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W13-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W13-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W13.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W13.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W14-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W14-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W14.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W14.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W15-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W15-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W15.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W15.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W16-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W16-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W16.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W16.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W17-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W17-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W17.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W17.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W18-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W18-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W18.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W18.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W19-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W19-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W19.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W19.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W20-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W20-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W20.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W20.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W21-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W21-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W21.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W21.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W22-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W22-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W22.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W22.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W23-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W23-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W23.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W23.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W24-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W24-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W24.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W24.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W25-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W25-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W25.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W25.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W26-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W26-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W26.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W26.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W27-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W27-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W27.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W27.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W28-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W28-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W28.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W28.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W29-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W29-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W29.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W29.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W30-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W30-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W30.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W30.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W31-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W31-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W31.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W31.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W32-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W32-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W32.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W32.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W33-chart.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W33-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/newsletter/covers/2026-W33.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\newsletter\covers\2026-W33.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/qhexrt
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\qhexrt.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/research
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\research.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/sdk
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\sdk.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/wally/wally-mono-ink.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\wally\wally-mono-ink.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/yaprun
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\yaprun.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/yaprun/01-welcome.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\yaprun\01-welcome.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/yaprun/02-privacy.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\yaprun\02-privacy.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/yaprun/03-download.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\yaprun\03-download.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/yaprun/04-ready.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\yaprun\04-ready.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/yaprun/05-models.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\yaprun\05-models.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/yaprun/06-keyboard.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\yaprun\06-keyboard.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/yaprun/07-playground.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\yaprun\07-playground.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/yaprun/08-notepad.png
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\yaprun\08-notepad.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/yaprun/logo.svg
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\yaprun\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.runanywhere.ai/yaprun/privacy
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\yaprun\privacy.html
+Content Type: text/html
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fbonsai-1bit%2Fbenchmark-27b.jpg&w=256&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\benchmark-27b-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fbonsai-1bit%2Fbenchmark-27b.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\benchmark-27b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fbonsai-1bit%2Fbits-chart.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\bits-chart.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fbonsai-1bit%2Fbits-chart.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\bits-chart-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fbonsai-1bit%2Fsize-chart.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\size-chart.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fbonsai-1bit%2Fsize-chart.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\size-chart-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice%2Fasync_pipeline.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\async_pipeline.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice%2Fasync_pipeline.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\async_pipeline-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice%2Fbaseline_breakdown.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\baseline_breakdown.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice%2Fbaseline_breakdown.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\baseline_breakdown-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice%2Fcumulative_results.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\cumulative_results.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice%2Fcumulative_results.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\cumulative_results-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice%2Ffirst_audio_breakdown.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\first_audio_breakdown.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice%2Ffirst_audio_breakdown.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\first_audio_breakdown-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice%2Fkv_cache_memory.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\kv_cache_memory.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice%2Fkv_cache_memory.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\kv_cache_memory-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice%2Fn_sweep.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\n_sweep.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice%2Fn_sweep.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\n_sweep-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice%2Fpipeline_architecture.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\pipeline_architecture-2.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice%2Fpipeline_architecture.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\pipeline_architecture-3.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice%2Fword_flush_impact.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\word_flush_impact.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice%2Fword_flush_impact.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\word_flush_impact-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice-rag%2Fcache_performance.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\cache_performance.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice-rag%2Fcache_performance.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\cache_performance-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice-rag%2Flatency_breakdown.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\latency_breakdown.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice-rag%2Flatency_breakdown.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\latency_breakdown-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice-rag%2Fpipeline_architecture.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\pipeline_architecture.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice-rag%2Fpipeline_architecture.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\pipeline_architecture-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice-rag%2Fretrieval_modes.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\retrieval_modes.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice-rag%2Fretrieval_modes.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\retrieval_modes-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice-rag%2Ftopk_sweep.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\topk_sweep.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Ffastvoice-rag%2Ftopk_sweep.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\topk_sweep-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-benchmarks%2Fdecode-speed.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\decode-speed.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-benchmarks%2Fdecode-speed.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\decode-speed-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-benchmarks%2Fdecode-vs-llamacpp.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\decode-vs-llamacpp.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-benchmarks%2Fdecode-vs-llamacpp.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\decode-vs-llamacpp-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-s2s%2Fspeedup.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\speedup.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-s2s%2Fspeedup.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\speedup-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-s2s%2Fthroughput.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\throughput.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-s2s%2Fthroughput.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\throughput-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-s2s%2Ftotal_latency.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\total_latency.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-s2s%2Ftotal_latency.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\total_latency-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-speech%2Flatency_comparison.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\latency_comparison.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-speech%2Flatency_comparison.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\latency_comparison-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-speech%2Frtf_comparison.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\rtf_comparison.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-speech%2Frtf_comparison.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\rtf_comparison-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-speech%2Fspeedup_summary.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\speedup_summary.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-speech%2Fspeedup_summary.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\speedup_summary-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-speech%2Ftts_benchmark.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\tts_benchmark.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-speech%2Ftts_benchmark.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\tts_benchmark-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-vlm%2Fdecode_speedup.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\decode_speedup.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-vlm%2Fdecode_speedup.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\decode_speedup-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-vlm%2Ftext_decode_throughput.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\text_decode_throughput.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-vlm%2Ftext_decode_throughput.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\text_decode_throughput-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-vlm%2Ftime_to_output.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\time_to_output.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-vlm%2Ftime_to_output.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\time_to_output-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-vlm%2Fvision_decode_throughput.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\vision_decode_throughput.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fmetalrt-vlm%2Fvision_decode_throughput.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\vision_decode_throughput-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Foffline-ai-agent-android%2FAgent%2520Tool%2520Kit.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\Agent20Tool20Kit.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Foffline-ai-agent-android%2FAgent%2520Tool%2520Kit.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\Agent20Tool20Kit-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Foffline-ai-agent-android%2FComplete%2520Offline%2520AI%2520Agent%2520Architecture.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\Complete20Offline20AI20Agent20Architecture.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Foffline-ai-agent-android%2FComplete%2520Offline%2520AI%2520Agent%2520Architecture.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\Complete20Offline20AI20Agent20Architecture-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Foffline-ai-agent-android%2FEnd-to-End%2520Agent%2520Latency%2520(With%2520Streaming).png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\End-to-End20Agent20Latency20With20Streaming.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Foffline-ai-agent-android%2FEnd-to-End%2520Agent%2520Latency%2520(With%2520Streaming).png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\End-to-End20Agent20Latency20With20Streaming-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Foffline-ai-agent-android%2FHero_%2520Offline%2520AI%2520Agent%2520on%2520Android.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\Hero_20Offline20AI20Agent20on20Android.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Foffline-ai-agent-android%2FHero_%2520Offline%2520AI%2520Agent%2520on%2520Android.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\Hero_20Offline20AI20Agent20on20Android-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Foffline-ai-agent-android%2FSpeech-to-Text%2520Processing.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\Speech-to-Text20Processing.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Foffline-ai-agent-android%2FSpeech-to-Text%2520Processing.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\Speech-to-Text20Processing-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Foffline-ai-agent-android%2FStreaming%2520Overlap_%2520The%2520Latency%2520Trick.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\Streaming20Overlap_20The20Latency20Trick.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Foffline-ai-agent-android%2FStreaming%2520Overlap_%2520The%2520Latency%2520Trick.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\Streaming20Overlap_20The20Latency20Trick-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Foffline-ai-agent-android%2FThe%2520Agent%2520Pipeline.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\The20Agent20Pipeline.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Foffline-ai-agent-android%2FThe%2520Agent%2520Pipeline.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\The20Agent20Pipeline-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Foffline-ai-agent-android%2FThe%2520Complete%2520Agent%2520Model%2520Stack.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\The20Complete20Agent20Model20Stack.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Foffline-ai-agent-android%2FThe%2520Complete%2520Agent%2520Model%2520Stack.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\The20Complete20Agent20Model20Stack-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Foffline-ai-agent-android%2FTool%2520Calling%2520Loop.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\Tool20Calling20Loop.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Foffline-ai-agent-android%2FTool%2520Calling%2520Loop.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\Tool20Calling20Loop-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fon-device-llm-android%2FCode%2520Comparison%2520-%2520DIY%2520vs%2520RunAnywhere%2520SDK.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\Code20Comparison20-20DIY20vs20RunAnywhere20SDK.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fon-device-llm-android%2FCode%2520Comparison%2520-%2520DIY%2520vs%2520RunAnywhere%2520SDK.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\Code20Comparison20-20DIY20vs20RunAnywhere20SDK-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fon-device-llm-android%2FLoRA_%2520One%2520Model%252C%2520Many%2520Personalities.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\LoRA_20One20Model2C20Many20Personalities.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fon-device-llm-android%2FLoRA_%2520One%2520Model%252C%2520Many%2520Personalities.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\LoRA_20One20Model2C20Many20Personalities-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fon-device-llm-android%2FOn-Device%2520AI%2520Readiness%2520Checklist.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\On-Device20AI20Readiness20Checklist.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fon-device-llm-android%2FOn-Device%2520AI%2520Readiness%2520Checklist.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\On-Device20AI20Readiness20Checklist-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fon-device-llm-android%2FPerformance%2520Across%2520Device%2520Tiers.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\Performance20Across20Device20Tiers.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fon-device-llm-android%2FPerformance%2520Across%2520Device%2520Tiers.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\Performance20Across20Device20Tiers-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fon-device-llm-android%2FQuantization_%2520Quality%2520vs%2520Size%2520Tradeoff.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\Quantization_20Quality20vs20Size20Tradeoff.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fon-device-llm-android%2FQuantization_%2520Quality%2520vs%2520Size%2520Tradeoff.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\Quantization_20Quality20vs20Size20Tradeoff-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fon-device-llm-android%2FRunAnywhere%2520Hero.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\RunAnywhere20Hero.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fon-device-llm-android%2FRunAnywhere%2520Hero.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\RunAnywhere20Hero-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fon-device-llm-android%2FThe%2520Memory%2520Wall%2520on%2520a%25204GB%2520Phone.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\The20Memory20Wall20on20a204GB20Phone.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fon-device-llm-android%2FThe%2520Memory%2520Wall%2520on%2520a%25204GB%2520Phone.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\The20Memory20Wall20on20a204GB20Phone-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fon-device-llm-android%2FThe%2520Reality%2520of%2520Android%2520Devices%2520Worldwide.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\The20Reality20of20Android20Devices20Worldwide.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fon-device-llm-android%2FThe%2520Reality%2520of%2520Android%2520Devices%2520Worldwide.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\The20Reality20of20Android20Devices20Worldwide-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fon-device-llm-android%2FVoice%2520Pipeline%2520Architecture.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\Voice20Pipeline20Architecture.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fon-device-llm-android%2FVoice%2520Pipeline%2520Architecture.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\Voice20Pipeline20Architecture-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fpicklerate-case-study%2Fai-insights.webp&w=256&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\ai-insights-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fpicklerate-case-study%2Fai-insights.webp&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\ai-insights.jpg
+Content Type: image/jpeg
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fpicklerate-case-study%2Fdashboard.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\dashboard-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fpicklerate-case-study%2Fdashboard.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\dashboard.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fpicklerate-case-study%2Fdual-provider.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\dual-provider.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fpicklerate-case-study%2Fdual-provider.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\dual-provider-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fpicklerate-case-study%2Fmodel-comparison.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\model-comparison.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fpicklerate-case-study%2Fmodel-comparison.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\model-comparison-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fqhexrt-npu-vs-cpu-lfm2.5-230m%2Fprefill_throughput.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\prefill_throughput.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fqhexrt-npu-vs-cpu-lfm2.5-230m%2Fprefill_throughput.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\prefill_throughput-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fqhexrt-npu-vs-cpu-lfm2.5-230m%2Fttft_vs_prompt.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\ttft_vs_prompt.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Fqhexrt-npu-vs-cpu-lfm2.5-230m%2Fttft_vs_prompt.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\ttft_vs_prompt-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Frunanywhere-swift-tutorial%2Fchat-streaming.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\chat-streaming.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Frunanywhere-swift-tutorial%2Fchat-streaming.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\chat-streaming-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Frunanywhere-swift-tutorial%2Finitializing-sdk.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\initializing-sdk.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Frunanywhere-swift-tutorial%2Finitializing-sdk.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\initializing-sdk-2.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Frunanywhere-swift-tutorial%2Fmodel-download-progress.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\initializing-sdk-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Frunanywhere-swift-tutorial%2Fmodel-download-progress.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\model-download-progress.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Frunanywhere-swift-tutorial%2Fpackage-dependencies.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\pubspec-dependencies.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Frunanywhere-swift-tutorial%2Fpackage-dependencies.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\package-dependencies.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Frunanywhere-swift-tutorial%2Fspeech-to-text.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\speech-to-text.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Frunanywhere-swift-tutorial%2Fspeech-to-text.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\speech-to-text-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Frunanywhere-swift-tutorial%2Fspm-add-package.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\spm-add-package.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Frunanywhere-swift-tutorial%2Fspm-add-package.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\spm-add-package-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Frunanywhere-swift-tutorial%2Fvoice-pipeline.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\voice-pipeline.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Frunanywhere-swift-tutorial%2Fvoice-pipeline.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\voice-pipeline-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Frunanywhere-swift-tutorial%2Fxcode-new-project.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\xcode-new-project.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fblog%2Frunanywhere-swift-tutorial%2Fxcode-new-project.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\xcode-new-project-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fsanchit.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\sanchit-11.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fsanchit.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\sanchit-12.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fsanchit.png&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\sanchit-5.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fsanchit.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\sanchit-13.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fsanchit.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\sanchit-14.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fsanchit.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\sanchit-6.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fsanchit.png&w=32&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\sanchit-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fsanchit.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\sanchit-7.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fsanchit.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\sanchit.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fsanchit.png&w=48&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\sanchit-2.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fsanchit.png&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\sanchit-3.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fsanchit.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\sanchit-8.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fsanchit.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\sanchit-9.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fsanchit.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\sanchit-10.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fsanchit.png&w=96&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\sanchit-4.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fshubham.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\shubham-11.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fshubham.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\shubham-12.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fshubham.png&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\shubham-5.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fshubham.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\shubham-13.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fshubham.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\shubham-14.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fshubham.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\shubham-6.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fshubham.png&w=32&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\shubham-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fshubham.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\shubham-7.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fshubham.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\shubham.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fshubham.png&w=48&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\shubham-2.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fshubham.png&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\shubham-3.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fshubham.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\shubham-8.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fshubham.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\shubham-9.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fshubham.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\shubham-10.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fimages%2Fteam%2Fshubham.png&w=96&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\shubham-4.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fyaprun%2F06-keyboard.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\06-keyboard.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fyaprun%2F06-keyboard.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\06-keyboard-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fyaprun%2F07-playground.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\07-playground.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/image?url=%2Fyaprun%2F07-playground.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\07-playground-1.png
+Content Type: image/png
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/02b470d-v5iqm.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\02b470d-v5iqm.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/02jzgh6l1vhcg.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\02jzgh6l1vhcg.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/0c0hxoamwjsbw.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\0c0hxoamwjsbw.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/0ea9utalw1cps.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\0ea9utalw1cps.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/0k7gx8vdf8gk2.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\0k7gx8vdf8gk2.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/0ky04_y2m8ifq.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\0ky04_y2m8ifq.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/0l7ojzf3qymlt.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\0l7ojzf3qymlt.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/0nlqwvkqjevq9.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\0nlqwvkqjevq9.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/0s3-kb7s0fy2o.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\0s3-kb7s0fy2o.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/0v8m9s91l2_tc.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\0v8m9s91l2_tc.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/0ybys9dcxb2-y.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\0ybys9dcxb2-y.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/0_e39h2-v2p_x.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\0_e39h2-v2p_x.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/1aqr9fr_lawsp.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\1aqr9fr_lawsp.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/1ehdz3-2j8fz-.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\1ehdz3-2j8fz-.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/1jzy304i690u5.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\1jzy304i690u5.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/2-asd-193qlpq.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\2-asd-193qlpq.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/2-fg1b3gspk0j.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\2-fg1b3gspk0j.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/201rth8_vczca.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\201rth8_vczca.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/20kdmhwfjr5ak.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\20kdmhwfjr5ak.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/24qtklo-dzgeo.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\24qtklo-dzgeo.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/28sd1ff55qkmn.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\28sd1ff55qkmn.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/2eksrnxv7bl0l.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\2eksrnxv7bl0l.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/2gx_vd823in8y.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\2gx_vd823in8y.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/2nk3hglraxr96.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\2nk3hglraxr96.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/2wkmhsn6itq_r.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\2wkmhsn6itq_r.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/30l4tpwvmr2pe.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\30l4tpwvmr2pe.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/35350og9dy8lp.css
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\35350og9dy8lp.css
+Content Type: text/css
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/3hun5wcozouzh.css
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\3hun5wcozouzh.css
+Content Type: text/css
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/3lpu-ii8c13f_.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\3lpu-ii8c13f_.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/3x-3dkzu17yw6.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\3x-3dkzu17yw6.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/chunks/turbopack-332pxhryjisee.js
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\chunks\turbopack-332pxhryjisee.js
+Content Type: application/javascript
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/media/03fc1b4a8d284b5e-s.p.45487z7p3r8wm.woff2
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\media\03fc1b4a8d284b5e-s.p.45487z7p3r8wm.woff2
+Content Type: font/woff2
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/media/13bf9871fe164e7f-s.3bz3aq452sydg.woff2
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\media\13bf9871fe164e7f-s.3bz3aq452sydg.woff2
+Content Type: font/woff2
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/media/1bcd0e671759a44c-s.3o0_l_yqebdng.woff2
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\media\1bcd0e671759a44c-s.3o0_l_yqebdng.woff2
+Content Type: font/woff2
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/media/3fe682a82f50d426-s.200l3jur7oygh.woff2
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\media\3fe682a82f50d426-s.200l3jur7oygh.woff2
+Content Type: font/woff2
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/media/57215795b8570f5c-s.0xluf1kzv7x5w.woff2
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\media\57215795b8570f5c-s.0xluf1kzv7x5w.woff2
+Content Type: font/woff2
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/media/70bc3e132a0a741e-s.p.269kn9uafm0ti.woff2
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\media\70bc3e132a0a741e-s.p.269kn9uafm0ti.woff2
+Content Type: font/woff2
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/media/71b036adf157cdcf-s.343obqi851wr5.woff2
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\media\71b036adf157cdcf-s.343obqi851wr5.woff2
+Content Type: font/woff2
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/media/7ebf22b5a21034f8-s.p.3strvg7o-g5v2.woff2
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\media\7ebf22b5a21034f8-s.p.3strvg7o-g5v2.woff2
+Content Type: font/woff2
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/media/7fea77d1d19108bf-s.2e4y-bhazgt_v.woff2
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\media\7fea77d1d19108bf-s.2e4y-bhazgt_v.woff2
+Content Type: font/woff2
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/media/89b21bb081cb7469-s.40kcwrf1wub16.woff2
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\media\89b21bb081cb7469-s.40kcwrf1wub16.woff2
+Content Type: font/woff2
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/media/90c51ce8fb754fe8-s.3bjsqkuy1d2v8.woff2
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\media\90c51ce8fb754fe8-s.3bjsqkuy1d2v8.woff2
+Content Type: font/woff2
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/media/cc545e633e20c56d-s.2sb9jzhmrh7ny.woff2
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\media\cc545e633e20c56d-s.2sb9jzhmrh7ny.woff2
+Content Type: font/woff2
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/media/ccf27e5a7366fb23-s.1wwzpfhzaj2r0.woff2
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\media\ccf27e5a7366fb23-s.1wwzpfhzaj2r0.woff2
+Content Type: font/woff2
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/media/e15f58668ad64cb8-s.2mglm451ism6l.woff2
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\media\e15f58668ad64cb8-s.2mglm451ism6l.woff2
+Content Type: font/woff2
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/media/e41d5df559864f9e-s.p.2rlzm4mj5kw8e.woff2
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\media\e41d5df559864f9e-s.p.2rlzm4mj5kw8e.woff2
+Content Type: font/woff2
+
+Uri: https://www.runanywhere.ai/_next/static/immutable/media/fc0a7394b875fa43-s.3zvkfbs08rnj_.woff2
+File Name: C:\Downloaded Web Sites\www.runanywhere.ai\_next\static\immutable\media\fc0a7394b875fa43-s.3zvkfbs08rnj_.woff2
+Content Type: font/woff2
+

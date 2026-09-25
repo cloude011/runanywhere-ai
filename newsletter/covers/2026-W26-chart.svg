@@ -1,0 +1,54 @@
+<svg width="820" height="460" viewBox="0 0 820 460" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="820" height="460" fill="#ffffff"/>
+<text x="20" y="30" fill="#0f172a" font-size="16" font-weight="700">Most active organizations · 2026-W26</text>
+<text x="20" y="50" fill="#64748b" font-size="12">Ranked by weekly commit count · 3,764 commits across 66 orgs</text>
+<line x1="325.0" y1="60" x2="325.0" y2="410" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="2,3"/>
+<text x="325.0" y="56" fill="#64748b" font-size="10" text-anchor="middle">91</text>
+<line x1="470.0" y1="60" x2="470.0" y2="410" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="2,3"/>
+<text x="470.0" y="56" fill="#64748b" font-size="10" text-anchor="middle">182</text>
+<line x1="615.0" y1="60" x2="615.0" y2="410" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="2,3"/>
+<text x="615.0" y="56" fill="#64748b" font-size="10" text-anchor="middle">273</text>
+<line x1="760.0" y1="60" x2="760.0" y2="410" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="2,3"/>
+<text x="760.0" y="56" fill="#64748b" font-size="10" text-anchor="middle">364</text>
+<text x="170" y="91" fill="#0f172a" font-size="12" font-weight="500" text-anchor="end">meta</text>
+<rect x="180" y="77" width="580" height="20" rx="3" fill="#ff6900"/>
+<text x="768" y="91" fill="#0f172a" font-size="11" font-weight="600">364</text>
+<text x="768" y="104" fill="#64748b" font-size="9">161 PRs · 178 issues</text>
+<text x="170" y="125" fill="#0f172a" font-size="12" font-weight="500" text-anchor="end">tensorflow</text>
+<rect x="180" y="111" width="580" height="20" rx="3" fill="#334155"/>
+<text x="768" y="125" fill="#0f172a" font-size="11" font-weight="600">364</text>
+<text x="768" y="138" fill="#64748b" font-size="9">312 PRs · 16 issues</text>
+<text x="170" y="159" fill="#0f172a" font-size="12" font-weight="500" text-anchor="end">vllm-project</text>
+<rect x="180" y="145" width="481" height="20" rx="3" fill="#334155"/>
+<text x="669" y="159" fill="#0f172a" font-size="11" font-weight="600">302</text>
+<text x="669" y="172" fill="#64748b" font-size="9">313 PRs · 117 issues</text>
+<text x="170" y="193" fill="#0f172a" font-size="12" font-weight="500" text-anchor="end">open-webui</text>
+<rect x="180" y="179" width="464" height="20" rx="3" fill="#475569"/>
+<text x="652" y="193" fill="#0f172a" font-size="11" font-weight="600">291</text>
+<text x="652" y="206" fill="#64748b" font-size="9">86 PRs · 81 issues</text>
+<text x="170" y="227" fill="#0f172a" font-size="12" font-weight="500" text-anchor="end">sgl-project</text>
+<rect x="180" y="213" width="414" height="20" rx="3" fill="#475569"/>
+<text x="602" y="227" fill="#0f172a" font-size="11" font-weight="600">260</text>
+<text x="602" y="240" fill="#64748b" font-size="9">276 PRs · 86 issues</text>
+<text x="170" y="261" fill="#0f172a" font-size="12" font-weight="500" text-anchor="end">google</text>
+<rect x="180" y="247" width="323" height="20" rx="3" fill="#475569"/>
+<text x="511" y="261" fill="#0f172a" font-size="11" font-weight="600">203</text>
+<text x="511" y="274" fill="#64748b" font-size="9">174 PRs · 29 issues</text>
+<text x="170" y="295" fill="#0f172a" font-size="12" font-weight="500" text-anchor="end">openxla</text>
+<rect x="180" y="281" width="304" height="20" rx="3" fill="#475569"/>
+<text x="492" y="295" fill="#0f172a" font-size="11" font-weight="600">191</text>
+<text x="492" y="308" fill="#64748b" font-size="9">188 PRs · 12 issues</text>
+<text x="170" y="329" fill="#0f172a" font-size="12" font-weight="500" text-anchor="end">berriai</text>
+<rect x="180" y="315" width="292" height="20" rx="3" fill="#475569"/>
+<text x="480" y="329" fill="#0f172a" font-size="11" font-weight="600">183</text>
+<text x="480" y="342" fill="#64748b" font-size="9">192 PRs · 147 issues</text>
+<text x="170" y="363" fill="#0f172a" font-size="12" font-weight="500" text-anchor="end">nvidia</text>
+<rect x="180" y="349" width="245" height="20" rx="3" fill="#475569"/>
+<text x="433" y="363" fill="#0f172a" font-size="11" font-weight="600">154</text>
+<text x="433" y="376" fill="#64748b" font-size="9">158 PRs · 26 issues</text>
+<text x="170" y="397" fill="#0f172a" font-size="12" font-weight="500" text-anchor="end">qualcomm</text>
+<rect x="180" y="383" width="218" height="20" rx="3" fill="#475569"/>
+<text x="406" y="397" fill="#0f172a" font-size="11" font-weight="600">137</text>
+<text x="406" y="410" fill="#64748b" font-size="9">34 PRs · 5 issues</text>
+<text x="470.0" y="440" fill="#64748b" font-size="10" text-anchor="middle">weekly commits</text>
+</svg>
